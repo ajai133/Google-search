@@ -2,6 +2,10 @@ package org.data;
 
 public class GoogleSearching {
 
+	private void arunWork() {
+		System.out.println("One");
+
+	}
 	private void searchBox() {
 	
 		System.out.println("Please enter the values");
