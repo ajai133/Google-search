@@ -2,8 +2,12 @@ package org.data;
 
 public class GoogleSearching {
 
+
 	private void samWork() {
 		System.out.println("Two");
+
+	private void arunWork() {
+		System.out.println("One");
 
 	}
 	private void searchBox() {
